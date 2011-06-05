@@ -1,0 +1,15 @@
+This repository contains simple exercises I've used to help folks I know
+learn Python and computer science topics.
+
+The general approach I take:
+  1) Explore the concept(s) and syntax on a whiteboard.
+  2) Give the person interested in learning a skeleton of code and a unit test.
+  3) Have the person complete the code until the unit test passes.
+  4) Pile more on. :)
+
+This is an adaptation of an approach used by Dr. Clint Staley[1], but geared for
+folks who aren't ensconced in a full classroom setting.
+
+Contributions welcome :)
+
+[1] http://www.csc.calpoly.edu/~cstaley/ - a legend among men.
